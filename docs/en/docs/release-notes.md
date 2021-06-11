@@ -2,6 +2,7 @@
 
 ## Latest Changes
 
+* Add GitHub Action: ShiftLeft NextGen Static Analysis. PR [#4](https://github.com/Karanxa/fastapi/pull/4) by [@Karanxa](https://github.com/Karanxa).
 
 ## 0.65.2
 
