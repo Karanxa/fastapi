@@ -458,3 +458,6 @@ You can install all of these with `pip install fastapi[all]`.
 ## License
 
 This project is licensed under the terms of the MIT license.
+
+
+<!-- Security scan triggered at 2025-09-02 14:29:37 -->
